@@ -1,0 +1,10 @@
+﻿.teaser {
+    
+}
+
+.teaser__icon {
+    width: 10px;
+    height: 10px;
+    background: red;
+    display: inline-block;
+}
